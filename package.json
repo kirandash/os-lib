@@ -1,0 +1,11 @@
+{
+  "name": "os-lib",
+  "version": "1.0.0",
+  "description": "For os project generation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Dash <kiran@bgwebagency.in> (https://bgwebagency.in/)",
+  "license": "MIT"
+}
